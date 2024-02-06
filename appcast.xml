@@ -7,7 +7,7 @@
             <pubDate>Mon, 05 Feb 2024 14:29:09 -0800</pubDate>
             <sparkle:version>2.0.11</sparkle:version>
             <sparkle:shortVersionString>2.0.11</sparkle:shortVersionString>
-            <enclosure url="https://github.com/risingblock/FilterOnMeWinSparkleUpdate/releases/download/v2.0.11/FilterOnMe.msi" length="0" type="application/octet-stream" sparkle:edSignature="MD4CHQCDKgMlq30MgmqRNrXvdh7gbT/J/Q/83CtgWsL5Ah0AswB478x5MPmfQyru3vmzTUKmjzajOGgVXQdWyA=="/>
+            <enclosure url="https://github.com/risingblock/FilterOnMeWinSparkleUpdate/releases/download/v2.0.11/FilterOnMe.msi" length="0" type="application/octet-stream" sparkle:edSignature="MD0CHEdnpeApjBGpacNyNg4XtB7ChhA/4Zzbh+jyCJ4CHQCZA82Q6WeGoB9E6ViC2srBPSY3TIokr6FnLH4P"/>
         </item>
     </channel>
 </rss>
