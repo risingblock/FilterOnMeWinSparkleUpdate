@@ -10,7 +10,8 @@
             <enclosure 
                 url="https://github.com/risingblock/FilterOnMeWinSparkleUpdate/releases/download/v2.0.13/FilterOnMe.msi" 
                 length="0" 
-                type="application/octet-stream" 
+                type="application/octet-stream"
+                sparkle:version="2.0.13"
                 sparkle:dsaSignature="MDwCHAnDEHYTNc+MfKqIEJYIIPnLOP6yZAIoMaiukHoCHAz/VXYX22OKDTqjtnU7jjrZGrIaOYaIOOGQumY="
             />
         </item>
