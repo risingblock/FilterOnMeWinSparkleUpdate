@@ -3,16 +3,16 @@
     <channel>
         <title>FilterOnMe</title>
         <item>
-            <title>2.0.38</title>
-            <pubDate>Mon, 15 Apr 2024 14:30:09 -0800</pubDate>
-            <sparkle:version>2.0.38</sparkle:version>
-            <sparkle:shortVersionString>2.0.38</sparkle:shortVersionString>
+            <title>2.0.39</title>
+            <pubDate>Thu, 18 Apr 2024 14:30:09 -0800</pubDate>
+            <sparkle:version>2.0.39</sparkle:version>
+            <sparkle:shortVersionString>2.0.39</sparkle:shortVersionString>
             <enclosure 
-                url="https://github.com/risingblock/FilterOnMeWinSparkleUpdate/releases/download/v2.0.38/FilterOnMe.msi" 
+                url="https://github.com/risingblock/FilterOnMeWinSparkleUpdate/releases/download/v2.0.39/FilterOnMe.msi" 
                 length="0" 
                 type="application/octet-stream"
                 sparkle:installerArguments="/passive"
-                sparkle:dsaSignature="MD4CHQCuJIQoQ487Pf67RxUWjBuLbXbeHUVnHsJPD4wpAh0Aj9MOdhBluCGPGy0CMUv5KdnGl3+RW0GBlZ3T1A=="
+                sparkle:dsaSignature="MDwCHH1MEy1wqIUjnxTxuzPbldwJZj03fBCn9bd39GwCHE0XIFkMrcpGL0ipYwmXvnv0KteYNATviqzBq5g="
             />
         </item>
     </channel>
